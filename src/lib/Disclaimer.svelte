@@ -5,7 +5,7 @@
   </p>
   <a
     class="text-red-600 underline block text-center"
-    href="https://github.com/shajidhasan/batname"
+    href="https://github.com/supunsathsara/batname"
     target="_blank">GitHub</a
   >
 </div>
